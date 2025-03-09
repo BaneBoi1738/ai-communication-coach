@@ -1,0 +1,1 @@
+This project is a wrapper application built on top of OpenAI/xAI API to help users improve verbal communication skills through chat and voice interactions. It offers structured skill-building exercises and AI-driven presentation feedback
